@@ -51,7 +51,7 @@ nome3 = input("\nDigite o seu nome:")
 print("Agora vamos para o nosso poema!!\n\n")
 print("Violetas são " + color)
 print("\nRosas são " + color2)
-print("\nSe você se chama " + nome3 + " então vai tomar no kyu!!\n")
+print("\nSe você se chama " + nome3 + " então vai tomar banho!!\n")
 
 
 humanBody = ["Hair", "shoulders", "knees", " and toes", "knees", " and toes"]
